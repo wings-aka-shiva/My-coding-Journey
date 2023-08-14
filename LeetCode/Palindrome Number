@@ -7,7 +7,7 @@ class Solution {
         while(quo!=0){
             int mod= quo%10;
             quo =quo/10;
-            reverse=(10*reverse)+mod;
+            reverse=(10*reverse)+mod; 
         }
         return x==reverse;
     }
