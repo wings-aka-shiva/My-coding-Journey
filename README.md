@@ -1,2 +1,2 @@
 # codingMania
-Recording solutions only if all testcases are resolved, since May 2025.
+Recording solutions only if all the testcases are resolved, since May 2025.
