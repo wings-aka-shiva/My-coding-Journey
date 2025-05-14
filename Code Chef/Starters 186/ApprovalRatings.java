@@ -15,7 +15,6 @@ class Codechef
                 scores[i] = scanner.nextInt();
             }
             Arrays.sort(scores);
-            int lessAverageSum = 0;
             int moreAverageSum = 0;
             int goldCoins = 0;
             for(int i=0; i<5; i++) {
