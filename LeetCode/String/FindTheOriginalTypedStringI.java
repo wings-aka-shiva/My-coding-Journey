@@ -6,7 +6,7 @@ class Solution {
             if(word.charAt(0)==word.charAt(1)) return 2;
             else return 1;
 
-        char previousLetter = word.charAt(0);
+        char previousLetter = word.charAt(0); 
         int count=0;
         for(int i=1; i<word.length(); ++i) {
             if(previousLetter==word.charAt(i))
